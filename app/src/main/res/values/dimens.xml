@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sizeMainListItemHeader">14sp</dimen>
+    <dimen name="sizeMainListItemPrice">12sp</dimen>
+    <dimen name="sizeMainListItemLocation">10sp</dimen>
+</resources>

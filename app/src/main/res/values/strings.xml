@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Ring</string>
+    <string name="importing">Import</string>
+    <string name="gallery">gallery</string>
+    <string name="slideshow">slideshow</string>
+    <string name="tools">tools</string>
+    <string name="search_query_hint">جستجو...</string>
+    <string name="sort">مرتب‌سازی</string>
+    <string name="filter">فیلتر</string>
+    <string-array name="list_items">
+        <item>Ring</item>
+        <item>Import</item>
+        <item>gallery</item>
+        <item>slideshow</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>tools</item>
+        <item>toolsadfasdfs</item>
+        <item>toolsdafsadfsadfsadfsadfss</item>
+        <item>tooasdfsadfsdfsafsdfsadfsls</item>
+        <item>toolsasasdfsadfsadfsdfsadfdf</item>
+        <item>toolsasadfsadfsadfsadfsasdfdf</item>
+        <item>majid</item>
+    </string-array>
+
+</resources>

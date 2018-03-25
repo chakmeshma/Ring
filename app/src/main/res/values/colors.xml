@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0e1629</color>
+    <color name="colorPrimaryLight">#2a4178</color>
+    <color name="colorAccent">#393809</color>
+    <color name="colorActionbarBackground">@color/colorPrimaryLight</color>
+    <color name="colorActionbarText">#ffffff</color>
+    <color name="colorTopbarBackground">@color/colorPrimary</color>
+    <color name="colorTopbarText">#ffffff</color>
+    <color name="colorTopbarSubText">#bfbfbf</color>
+    <color name="colorMainListItemBackground">#ffffff</color>
+    <color name="colorMainListBackground">#aaaaaa</color>
+    <color name="colorMainListItemHeaderText">#000000</color>
+    <color name="colorMainListItemLocationText">#393939</color>
+    <color name="colorMainListItemPriceText">@color/colorPrimaryLight</color>
+    <color name="colorMainListItemTextBackgroud">#bfd2ff</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryLight</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="SearchStyle" parent="ThemeOverlay.AppCompat.Dark.ActionBar">
+        <item name="colorControlNormal">@color/colorTopbarSubText</item>
+        <item name="android:textColorHint">@color/colorTopbarSubText</item>
+        <item name="android:editTextColor">@color/colorTopbarText</item>
+        <item name="android:textColorSecondary">@color/colorTopbarText</item>
+    </style>
+</resources>
